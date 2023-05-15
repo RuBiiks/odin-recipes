@@ -1,0 +1,26 @@
+#page {
+  background-color: rgb(43, 0, 43);
+  text-align: center;
+  color: rgb(204, 158, 248);
+}
+ .avatar {
+  height: auto;
+  width: 600px;
+}
+
+.page-title {
+  font-family: Lucida Sans;
+  color: rgb(190, 147, 6);
+}
+
+.link {
+  color: rgba(175, 1, 255, 0.815);
+}
+ul {
+  font-family: helvetica;
+}
+li {
+  list-style-position: inside;
+  
+}
+
